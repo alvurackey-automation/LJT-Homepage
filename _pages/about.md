@@ -73,13 +73,6 @@ Before starting my Ph.D., I graduated from Shanghai Jiao Tong University (SJTU) 
   - Shanghai AI Lab
   - Advisor: Prof. Yu Cheng
 
-## Skills
-
-- **Programming Languages**: Python, C++, Java, JavaScript
-- **Machine Learning Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers
-- **Tools & Technologies**: Git, Docker, Linux, LaTeX
-- **Research Areas**: Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
-
 ## Contact
 
 - **Email**: jliugi@connect.ust.hk

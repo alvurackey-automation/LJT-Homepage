@@ -15,29 +15,6 @@ I am a first-year Ph.D. candidate at HKUST NLP Group, advised by Professor Junxi
 
 Before starting my Ph.D., I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. I have also worked as a Research Intern at MINIMAX, Tencent WXG, and Shanghai AI Lab.
 
-## Education
-
-- **Ph.D. in Computer Science** (2024-Present)
-  - Hong Kong University of Science and Technology
-  - Advisor: Professor Junxian He
-
-- **B.Eng. in Computer Science** (2020-2024)
-  - Shanghai Jiao Tong University
-  - Received Zhiyuan Honor Scholarship
-
-## Research Experience
-
-- **Research Intern** (February 2025 - Present)
-  - MINIMAX
-
-- **Research Intern** (June 2024 - September 2024)
-  - Tencent WXG
-  - Advisor: Zifei Shan
-
-- **Research Intern** (June 2023 - December 2023)
-  - Shanghai AI Lab
-  - Advisor: Prof. Yu Cheng
-
 ## Publications
 
 ### 2025
@@ -72,6 +49,29 @@ Before starting my Ph.D., I graduated from Shanghai Jiao Tong University (SJTU) 
 - **Composing Parameter-Efficient Modules with Arithmetic Operations**
   - Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
   - NeurIPS 2023
+
+## Education
+
+- **Ph.D. in Computer Science** (2024-Present)
+  - Hong Kong University of Science and Technology
+  - Advisor: Professor Junxian He
+
+- **B.Eng. in Computer Science** (2020-2024)
+  - Shanghai Jiao Tong University
+  - Received Zhiyuan Honor Scholarship
+
+## Research Experience
+
+- **Research Intern** (February 2025 - Present)
+  - MINIMAX
+
+- **Research Intern** (June 2024 - September 2024)
+  - Tencent WXG
+  - Advisor: Zifei Shan
+
+- **Research Intern** (June 2023 - December 2023)
+  - Shanghai AI Lab
+  - Advisor: Prof. Yu Cheng
 
 ## Skills
 
